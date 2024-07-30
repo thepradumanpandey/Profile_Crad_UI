@@ -1,7 +1,6 @@
 🚀 Day 4 of Building a Profile Card UI 🚀
 
-I'm excited to share my progress on building a front-end clone of the Myntra website!
-
+I'm excited to share my progress on building a Profile Card UI
 Today, I focused on creating a Profile Card, which includes:
 
 A profile picture
